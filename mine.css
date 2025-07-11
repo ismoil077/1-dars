@@ -1,0 +1,26 @@
+body {
+    background-color: brown;
+}
+h1 {
+    background-color: aqua;
+    color: white;
+    text-align: center;
+}
+div {
+    width: ;
+    border-radius: 15px;
+    background-color: antiquewhite;
+}
+.imo {
+    width: 400px;
+background-color: white;
+text-align: center;
+border: 10px solid black;
+border-radius: 5px;
+}
+button {
+    border: none;
+    background-color: black;
+    border-radius: 25px;
+    color: white;
+}
